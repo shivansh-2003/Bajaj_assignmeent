@@ -1,5 +1,5 @@
 # RAG Document Retrieval System
-
+https://github.com/user-attachments/assets/47d3d94f-fa01-4999-baed-c4f5c4c6c24a
 A minimal RAG (Retrieval-Augmented Generation) system for document search and question answering using Chroma vector database and Ollama LLM.
 
 ## Features
